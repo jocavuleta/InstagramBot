@@ -4,4 +4,4 @@ Instagram Agent that grows your social media by liking others people images and 
 ## What I Learned
 - Working with Selenium
 - Preparing the agent to perform certain operations on the browser by providing required information from the browser by inspecting elements and desired fileds and buttons.
-- Initializing fields of agents investigastions(hastags), and area of liking and searching pictures.
+- Initializing fields of agents investigations(hastags), and area of liking and searching pictures.
